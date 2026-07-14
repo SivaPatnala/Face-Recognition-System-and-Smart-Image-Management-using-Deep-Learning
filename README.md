@@ -1,0 +1,2 @@
+# Face-Recognition-System-and-Smart-Image-Management-using-Deep-Learning
+The Face Recognition System and Smart Image Management project is an AI-based application designed to identify individuals from images and efficiently manage large image collections. The system uses face recognition technology to search, organize, and retrieve images quickly. It also includes duplicate image detection, with smart sharing.
